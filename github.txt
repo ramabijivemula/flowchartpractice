@@ -4,3 +4,10 @@ git add README.md
 git commit -m "first commit"
 git remote add origin https://github.com/ramabijivemula/flowchartpractice.git
 git push -u origin master
+
+git status
+git add .
+git commit -m "my first code"
+git push -u origin master
+
+Git pull
